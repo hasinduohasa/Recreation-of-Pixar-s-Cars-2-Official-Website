@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #fff;
-    overflow-x: hidden;
 
 }
 
@@ -56,8 +56,6 @@ body {
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 .description h1 {
@@ -242,14 +240,11 @@ body {
     
 }
 
-.end{
-    height: 20vh;
-    color: white;
-}
 
-.end p {
-    margin-top: 20vh;
+.end {
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-align: center;
     color: #333;
-    opacity: 50%;
+    opacity: 70%;
 }
