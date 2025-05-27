@@ -190,6 +190,7 @@ body {
     background-color: #efefef5b;
     padding: 20px;
     height: 800px;
+    max-weight: 100%;
     padding-top: 5%;
     
 }
